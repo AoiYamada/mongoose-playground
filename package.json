@@ -1,0 +1,12 @@
+{
+  "name": "mongoose-playground",
+  "version": "1.0.0",
+  "description": "Test mongoose with in-memory mongodb",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mongodb-memory-server": "^6.0.2",
+    "mongoose": "^5.7.13"
+  }
+}
